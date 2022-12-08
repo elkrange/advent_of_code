@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # specific to advent of code
-input_files/*
+*/input_files/*
